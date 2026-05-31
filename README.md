@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yo, I'm Isaac👋
+Welcome to my GitHub. Hopefully, there will be some cool projects here soon :)
 
-<!--
-**ByroDk2407/ByroDk2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm currently studying mechatronics and artificial intelligence (final year).
+I have a passion for natural language processing and software development.
 
-Here are some ideas to get you started:
+### Current Employment
+Working as a Junior Software Developer at Kompozition.
+Working as an AI intern at CSIRO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Passions
+Absolute foodie.
+Love snowboarding.
